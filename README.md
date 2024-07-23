@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amaan Majid</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-amaan&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-amaan" /> </p>
 
 - 📫 How to reach me **amaanmajid01@gmail.com**
 
