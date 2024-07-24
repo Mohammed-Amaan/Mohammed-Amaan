@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amaan Majid</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A Software Engineer passionate about building impactful products.</h3>
 
 
 - 📫 How to reach me **amaanmajid01@gmail.com**
